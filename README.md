@@ -8,7 +8,7 @@ Datacamp
 https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=5   
 Sololearn  
 https://www.sololearn.com/Course/Python/  
-
-https://www.codeschool.com/courses/try-python  
+CodeSchool
+https://www.codeschool.com/courses/try-python  
 
 https://www.w3schools.in/python-tutorial/operators/  
