@@ -11,8 +11,8 @@ https://www.sololearn.com/Course/Python/
 CodeSchool  
 https://www.codeschool.com/courses/try-python  
 
-https://www.w3schools.in/python-tutorial/operators/ 
-Hackerrank 
+https://www.w3schools.in/python-tutorial/operators/   
+Hackerrank   
 https://www.hackerrank.com/domains/python/py-introduction  
 Youtube  
 Socratica  
